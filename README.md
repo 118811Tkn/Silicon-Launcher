@@ -1,4 +1,6 @@
-# Silicon-Launcher
+# Project Silicon
+
+
 # **This is in no way, shape or form affiliated with Microsoft or Mojang studios!!**
 A native Apple Silicon Minecraft client written from scratch in Swift and Metal.
 
